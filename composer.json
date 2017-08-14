@@ -1,0 +1,16 @@
+{
+  "name": "sealink/sealinktwig",
+  "description": "Sealink Craft Plugin for Twig extensions",
+  "keywords": ["twig"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+      {
+        "name": "Sealink Travel Group",
+        "email": "support@travellink.com.au"
+      }
+  ],
+  "require-dev": {
+    "twig/twig": "~1.27|~2.0"
+  }
+}
