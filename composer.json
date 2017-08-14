@@ -1,5 +1,5 @@
 {
-  "name": "sealink/sealinktwig",
+  "name": "sealink/twiglink",
   "description": "Sealink Craft Plugin for Twig extensions",
   "keywords": ["twig"],
   "type": "library",
