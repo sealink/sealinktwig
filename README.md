@@ -10,9 +10,10 @@ Install using composer
 
 ```
   "require": {
-    "sealink/sealink-twig": "0.1.0"
+    "sealink/twiglink": "0.1.0"
   }
 ```
 
 ## Tests
+composer install
 phpunit

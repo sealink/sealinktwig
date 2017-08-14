@@ -3,7 +3,7 @@ namespace Craft;
 require_once __DIR__.'/twigextensions/Cell.php';
 require_once __DIR__.'/twigextensions/SealinkTwigExtensions.php';
 
-class SealinkTwigPlugin extends BasePlugin
+class TwigLinkPlugin extends BasePlugin
 {
     public function getName()
     {
