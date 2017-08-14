@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sealink/sealinktwig.svg?branch=master)](https://travis-ci.org/sealink/sealinktwig)
+
 # Sealink Twig
 Sealink Craft Plugin for Twig Extensions
 
