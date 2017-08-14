@@ -1,6 +1,6 @@
 <?php
 namespace Craft;
-require_once __DIR__.'/twigextensions/CellFunctions.php';
+require_once __DIR__.'/twigextensions/Cell.php';
 require_once __DIR__.'/twigextensions/SealinkTwigExtensions.php';
 
 class SealinkTwigPlugin extends BasePlugin
