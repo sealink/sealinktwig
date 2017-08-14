@@ -34,9 +34,9 @@ class Cell
 
   static function render($name, $args = [])
   {
-    $params = http_build_query($args);
     $base_url = "<!--# include virtual='/cells?name=$name";
     if (count($args) > 0) {
+      $params = http_build_query($args);
       $base_url .= "&$params";
     }
     return $base_url . "' -->";
